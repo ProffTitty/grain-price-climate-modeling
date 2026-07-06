@@ -47,10 +47,10 @@ This project was carried out in six distinct phases.
 <summary><kbd> view phase 3 </kbd></summary>
 
    
-### Phase 1: Excel Data Cleaning 
+### Data Cleaning with Excel
 Raw climate and market data contained redundant metadata, structural mismatches, and multi-market duplicates. Excel was utilized to isolate Kano and Kaduna states, standardize pricing metrics, and establish clean monthly time-series baselines.
 
-**[Download Complete Raw and Cleaned Dataset](https://drive.google.com/drive/folders/1rbZ0VQx3O_sKAHD_Nkm7Jmk7rwf6XcDj?usp=drive_link)**
+Download Complete Raw and Cleaned Datase **[HERE](https://drive.google.com/drive/folders/1rbZ0VQx3O_sKAHD_Nkm7Jmk7rwf6XcDj?usp=drive_link)**
 
 <details>
 <summary> Click to view Before/After: <b>Food Prices Dataset</b></summary>
