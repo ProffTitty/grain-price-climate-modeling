@@ -4,6 +4,8 @@ A data engineering and analytics project leveraging SQL, Excel, and Python to mo
 
 To prepare our four distinct datasets (Food Prices, NDVI, Rainfall, and CPI) for analytical modeling, a structured multi-stage ETL pipeline was executed across Excel and PostgreSQL.
 
+<details>
+<summary> Click to view <b>Excel Data Cleaning (Phase 1)</b></summary>
 ### Phase 1: Excel Data Cleaning 
 Raw climate and market data contained redundant metadata, structural mismatches, and multi-market duplicates. Excel was utilized to isolate Kano and Kaduna states, standardize pricing metrics, and establish clean monthly time-series baselines.
 <details>
@@ -52,6 +54,7 @@ To prepare the raw market data, I used Excel to clean, filter, and organize the 
 
 <details>
 <summary> Click to view Before/After: <b>CPI (Inflation Index) Dataset</b></summary>
+</details>
 
 #### **Before: Raw Annual Macro Index**
 ![Raw CPI data](excel/cpi_raw.png)
