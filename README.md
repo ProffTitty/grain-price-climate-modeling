@@ -10,6 +10,9 @@ To prepare our four distinct datasets (Food Prices, NDVI, Rainfall, and CPI) for
    
 ### Phase 1: Excel Data Cleaning 
 Raw climate and market data contained redundant metadata, structural mismatches, and multi-market duplicates. Excel was utilized to isolate Kano and Kaduna states, standardize pricing metrics, and establish clean monthly time-series baselines.
+
+**[View Complete Workbook Raw and Cleaned](https://drive.google.com/drive/folders/1rbZ0VQx3O_sKAHD_Nkm7Jmk7rwf6XcDj?usp=drive_link)**
+
 <details>
 <summary> Click to view Before/After: <b>Food Prices Dataset</b></summary>
 
