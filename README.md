@@ -7,7 +7,7 @@ A data engineering and analytics project leveraging SQL, Excel, and Python to mo
 
 ## Heatflation Project Work flow
 
-The project was carried out in six distinct phases.
+This project was carried out in six distinct phases.
 <br>
 
 
