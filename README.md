@@ -11,7 +11,7 @@ The project was carried out in six distinct phases.
 - [ ] **Phase 3: Data Cleaning** (Excel)
       
 <details>
-<summary> Click to view <b>Phase 1</b> (Excel)</summary>
+<summary><kbd> view phase 3 </kbd></summary>
 
    
 ### Phase 1: Excel Data Cleaning 
