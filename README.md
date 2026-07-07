@@ -110,11 +110,6 @@ To prepare the raw market data, I used Excel to clean, filter, and organize the 
   </tr>
 </table>
 
-#### **Before: Cleaning**
-![Raw NDVI data](excel/ndvi_raw.png)
-
-#### **After Cleaning**
-![Clean NDVI data](excel/ndvi_clean.png)
 </details>
 
 <details>
@@ -135,12 +130,6 @@ To prepare the raw market data, I used Excel to clean, filter, and organize the 
   </tr>
 </table>
 
-
-#### **Before Cleaning **
-![Raw Rainfall data](excel/rainfall_raw.png)
-
-#### **After Cleaning**
-![Clean Rainfall data](excel/rainfall_clean.png)
 </details>
 
 
@@ -163,11 +152,6 @@ To prepare the raw market data, I used Excel to clean, filter, and organize the 
   </tr>
 </table>
 
-#### **Before Cleaning**
-![Raw CPI data](excel/cpi_raw.png)
-
-#### **After Cleaning**
-![Clean CPI data](excel/cpi_clean.png)
 </details>
 </details>
 <br>
