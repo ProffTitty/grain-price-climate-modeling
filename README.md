@@ -62,16 +62,20 @@ Raw climate and market data contained redundant metadata, structural mismatches,
 <summary><kbd> Cleaning Food Prices Dataset</kbd></summary>
 
 <table>
-      <tr>
-            <td><b> Before Cleaning </b></td>
-            <td><b> After Cleaning </b></td>
-      </tr>
-      <tr>
-            <td><img scr= "excel/food_price_raw.png" width ="400"></td>
-            <td><img scr= "excel/food_price_clean.png
-" width ="400"></td>
-      </tr>
+  <tr>
+    <th width="50%"><b>Before Cleaning</b></th>
+    <th width="50%"><b>After Cleaning</b></th>
+  </tr>
+  <tr>
+    <td valign="top">
+      <img src="excel/food_price_raw.png" alt="Before Cleaning Data" width="100%">
+    </td>
+    <td valign="top">
+      <img src="excel/food_price_clean.png" alt="After Cleaning Data" width="100%">
+    </td>
+  </tr>
 </table>
+
 
 #### **Before Cleaning**
 ![Raw food prices data](excel/food_price_raw.png)
