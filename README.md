@@ -166,7 +166,7 @@ To prepare the raw market data, I used Excel to clean, filter, and organize the 
 <summary><kbd> view phase 4 </kbd></summary>
 
 
-**Database Architecture:** [Master SQL Script](./sql.sql)
+**Database Architecture:** [SQL Script](./sql.sql)
 </details>
 <br>
 
@@ -186,7 +186,7 @@ To prepare the raw market data, I used Excel to clean, filter, and organize the 
 
 
  
-- [ ] Phase 6: **Data Visualization and Storytelling**
+- [ ] Phase 6: **Data Visualization**
 <details>
 <summary><kbd> view phase 6 </kbd></summary>
 </details>
