@@ -14,7 +14,7 @@ A data engineering and analytics project leveraging SQL, Excel, and Python to mo
 
 
 
-- [ ] **Phase 1: The Problem**
+- [ ] Phase 1: **The Problem**
 <details>
 <summary><kbd> view phase 1 </kbd></summary>
 </details>
@@ -27,7 +27,7 @@ A data engineering and analytics project leveraging SQL, Excel, and Python to mo
 
 
       
-- [ ] **Phase 2: Data Collection**
+- [ ] Phase 2: **Data Collection**
 <details>
 <summary><kbd> view phase 2 </kbd></summary>
 </details>   
@@ -40,7 +40,7 @@ A data engineering and analytics project leveraging SQL, Excel, and Python to mo
 
 
       
-- [ ] **Phase 3: Data Cleaning** (Excel)
+- [ ] Phase 3: **Data Cleaning** (Excel)
       
 <details>
 <summary><kbd> view phase 3 </kbd></summary>
@@ -161,7 +161,7 @@ To prepare the raw market data, I used Excel to clean, filter, and organize the 
 
 
 
-- [ ] **Phase 4: Data Analysis** (SQL)
+- [ ] Phase 4: **Data Analysis** (SQL)
 <details>
 <summary><kbd> view phase 4 </kbd></summary>
 
@@ -175,7 +175,7 @@ To prepare the raw market data, I used Excel to clean, filter, and organize the 
 
 
 
-- [ ] **Phase 5: Pattern Recognition** (Python)
+- [ ] Phase 5: **Pattern Recognition** (Python)
 <details>
 <summary><kbd> view phase 5 </kbd></summary>
 </details>
@@ -186,7 +186,7 @@ To prepare the raw market data, I used Excel to clean, filter, and organize the 
 
 
  
-- [ ] **Phase 6: Data Visualization and Storytelling**
+- [ ] Phase 6: **Data Visualization and Storytelling**
 <details>
 <summary><kbd> view phase 6 </kbd></summary>
 
