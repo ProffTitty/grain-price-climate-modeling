@@ -191,10 +191,13 @@ To prepare the raw market data, I used Excel to clean, filter, and organize the 
 <summary><kbd> view phase 6 </kbd></summary>
 </details>
 
+<br>
+
 <details>
 <summary> Conclusion </summary>
 </details>
 
+<br>
 
 <details>
 <summary> Reference </summary>
