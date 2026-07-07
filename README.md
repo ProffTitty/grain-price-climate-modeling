@@ -2,12 +2,11 @@
 
 A data engineering and analytics project leveraging SQL, Excel, and Python to model the relationship between climate anomalies and grain price fluctuations in Nigeria
 
-![Heatflation Image](https://share.google/images/FC6HYlkvS52HW41uN)
+![Heatflation Image]("https://share.google/images/FC6HYlkvS52HW41uN")
 
 
 ## Heatflation Project Work flow
 
-This project was carried out in six distinct phases.
 <br>
 
 
@@ -15,7 +14,7 @@ This project was carried out in six distinct phases.
 
 
 
-- [ ] **Phase 1: Project Overview**
+- [ ] **Phase 1: The Problem**
 <details>
 <summary><kbd> view phase 1 </kbd></summary>
 </details>
