@@ -18,7 +18,6 @@ A data engineering and analytics project leveraging SQL, Excel, and Python to mo
 <details>
 <summary><kbd> view phase 1 </kbd></summary>
 </details>
-<br>
 
 
 
