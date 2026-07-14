@@ -66,7 +66,7 @@ Raw climate and market data contained redundant metadata, structural mismatches,
   </tr>
   <tr>
     <td valign="top">
-      <img src="excel/food_price_raw_1.png" alt="Before Cleaning Data" width="100%">
+      <img src="excel/food_prices_raw_1.png" alt="Before Cleaning Data" width="100%">
     </td>
     <td valign="top">
       <img src="excel/food_prices_clean_1.png" alt="After Cleaning Data" width="100%">
@@ -142,7 +142,7 @@ To prepare the raw market data, I used Excel to clean, filter, and organize the 
   </tr>
   <tr>
     <td valign="top">
-      <img src="excel/cpi_raw_1.png" alt="Before Cleaning Data" width="100%">
+      <img src="excel/cpi_raw_2.png" alt="Before Cleaning Data" width="100%">
     </td>
     <td valign="top">
       <img src="excel/cpi_clean_1.png" alt="After Cleaning Data" width="100%">
