@@ -69,7 +69,7 @@ Raw climate and market data contained redundant metadata, structural mismatches,
       <img src="excel/food_price_raw_1.png" alt="Before Cleaning Data" width="100%">
     </td>
     <td valign="top">
-      <img src="excel/food_price_clean_1.png" alt="After Cleaning Data" width="100%">
+      <img src="excel/food_prices_clean_1.png" alt="After Cleaning Data" width="100%">
     </td>
   </tr>
 </table>
